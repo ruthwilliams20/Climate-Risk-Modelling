@@ -1,4 +1,4 @@
-# Integrating-adaptation-into-climate-risk-models-using-agent-based-modelling
+# Integrating adaptation into climate risk models using agent-based modelling: systematic literature review
 This repository contains the data and code used to support the analyses and visualisations presented in:
 Integrating adaptation into climate risk models using agent-based modelling: a systematic literature review (in review).
 
